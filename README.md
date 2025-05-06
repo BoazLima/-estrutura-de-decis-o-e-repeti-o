@@ -8,7 +8,7 @@ Utiliza for e continue.
 
 Exibe apenas os números pares, pulando os especificados.
 
-![Visualização rapida aqui](Captura%20de%20tela%202025-03-30%20001958.png)
+![Visualização rapida aqui](print_1.png)
 
 
 
@@ -20,4 +20,4 @@ Usa while para garantir que as notas estejam no intervalo correto.
 
 Calcula a média e informa se o aluno foi aprovado (média ≥ 6) ou reprovado.
 
-![Visualização rapida aqui](Captura%20de%20tela%202025-03-30%20001958.png)
+![Visualização rapida aqui](print_2.png)
