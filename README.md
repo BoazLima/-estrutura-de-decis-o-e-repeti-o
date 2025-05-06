@@ -20,4 +20,4 @@ Usa while para garantir que as notas estejam no intervalo correto.
 
 Calcula a média e informa se o aluno foi aprovado (média ≥ 6) ou reprovado.
 
-![Visualização rapida aqui](print_2.png)
+![Visualização rapida aqui](Print_2.png)
